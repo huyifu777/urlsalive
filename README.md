@@ -13,7 +13,7 @@
 
 ## 安装
 
-无需安装，开箱即用
+pip install -r requirements.txt
 
 ##使用方法
 
